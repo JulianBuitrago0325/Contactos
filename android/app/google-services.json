@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852877705452",
+    "firebase_url": "https://contactos-3205d.firebaseio.com",
+    "project_id": "contactos-3205d",
+    "storage_bucket": "contactos-3205d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852877705452:android:033d6fec64d82474d065c9",
+        "android_client_info": {
+          "package_name": "com.example.contactos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852877705452-o5ioci4gse6cc3j69rsgg5qc2pgr5qqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp4CF5RcL-RxeqMMl2jnMx7kguKlb4imA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852877705452-o5ioci4gse6cc3j69rsgg5qc2pgr5qqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
